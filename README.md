@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Cloud Threat Detection System">
+</p>
+
 # Cloud Threat Detection System
 
 A cloud-native threat detection platform built with FastAPI and PostgreSQL.
