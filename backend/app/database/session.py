@@ -100,6 +100,8 @@ def shutdown_database() -> None:
 
 from app.models.alert import Alert
 from app.models.user import User
+from app.models.incident import Incident
+from app.models.timeline import TimelineEvent
 
 print("Registered tables:", Base.metadata.tables.keys())
 
